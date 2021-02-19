@@ -1,0 +1,2 @@
+Se calcula el mismo valor de margen en la izquierda y derecha del contenedor haciendo
+que este y sus elementos se centren
