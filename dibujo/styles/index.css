@@ -1,0 +1,60 @@
+body
+{
+    margin: 0;
+}
+
+div
+{
+    position: absolute;
+    height: 100%;
+}
+
+.amarillo
+{
+    background-color: yellow;
+}
+
+.azul
+{
+    background-color: blue;
+}
+
+.rojo
+{
+    background-color: red;
+}
+
+.bloque1
+{
+    width: 2.5%;
+}
+
+.bloque2
+{
+    width: 2.5%;
+    left: 2.5%;
+}
+
+.bloque3
+{
+    width: 5%;
+    left: 5%;
+}
+
+.bloque4
+{
+    width: 10%;
+    left: 10%;
+}
+
+.bloque5
+{
+    width: 30%;
+    left: 20%;
+}
+
+.bloque6
+{
+    width: 50%;
+    left: 50%;
+}

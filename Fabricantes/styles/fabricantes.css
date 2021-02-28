@@ -1,0 +1,46 @@
+.cabecera img
+{
+    width: 10%;
+}
+
+.cabecera h1
+{
+    display: inline;
+    position:relative;
+    bottom: 40px;
+}
+
+.central .menu
+{
+    padding: 1%; 
+    float: left; 
+    width: 20%;
+}
+
+.central .contenido
+{
+    width: 40%;
+    display: inline-block; 
+    padding: 1%; 
+    position:relative; 
+    left: 5%;
+}
+
+.central .contenido img
+{
+    width: 100%;
+}
+
+.central .derecha
+{
+    width: 20%; 
+    padding: 1%; 
+    float: right; 
+    position: relative; 
+    top: 40px;
+}
+
+footer .foot
+{
+    text-align: center;
+}
